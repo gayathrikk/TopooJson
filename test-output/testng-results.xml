@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-05T15:43:28 IST" name="Default suite" finished-at="2025-02-05T15:44:32 IST" duration-ms="63278">
+    <groups>
+    </groups>
+    <test started-at="2025-02-05T15:43:28 IST" name="Default test" finished-at="2025-02-05T15:44:32 IST" duration-ms="63278">
+      <class name="AutomationTask.cases.TopoJson">
+        <test-method is-config="true" signature="setup()[pri:0, instance:AutomationTask.cases.TopoJson@1de5f259]" started-at="2025-02-05T15:43:28 IST" name="setup" finished-at="2025-02-05T15:43:30 IST" duration-ms="1066" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login()[pri:1, instance:AutomationTask.cases.TopoJson@1de5f259]" started-at="2025-02-05T15:43:30 IST" name="login" finished-at="2025-02-05T15:43:49 IST" duration-ms="18971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="table()[pri:2, instance:AutomationTask.cases.TopoJson@1de5f259]" started-at="2025-02-05T15:43:49 IST" name="table" finished-at="2025-02-05T15:44:32 IST" duration-ms="43011" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- table -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:AutomationTask.cases.TopoJson@1de5f259]" started-at="2025-02-05T15:44:32 IST" name="tearDown" finished-at="2025-02-05T15:44:32 IST" duration-ms="207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- AutomationTask.cases.TopoJson -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
